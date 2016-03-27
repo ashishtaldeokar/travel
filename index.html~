@@ -39,29 +39,29 @@
 			</section>
 
 		<!-- One -->
-			<section id="one" class="wrapper style1">
+			<section id="one" class="wrapper style2">
 				<div class="inner">
 					<article class="feature left">
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="images/himachal.jpg" alt="" /></span>
 						<div class="content">
-							<h2>Why trippy ?</h2>
-							<p>Your only worry is to decide how much fun to have. We take care of the rest.
 							</p>
+							<h2>A trip to kasol</h2>
+							<p>We didn't know you could spend 10 days in Himachal Pradesh under &#8377; 10,000/-</p>
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">More</a>
+									<a href="himachal.html" class="button alt">More</a>
 								</li>
 							</ul>
 						</div>
 					</article>
 					<article class="feature right">
-						<span class="image"><img src="images/pic02.jpg" alt="" /></span>
+						<span class="image"><img src="images/malshej-min.jpg" alt="" /></span>
 						<div class="content">
-							<h2>Integer vitae libero acrisus egestas placerat  sollicitudin</h2>
-							<p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est.</p>
+							<h2>Overnight camping at Malshej ghat!</h2>
+							<p>When we tripped with the wild ones...</p>
 							<ul class="actions">
 								<li>
-									<a href="#" class="button alt">More</a>
+									<a href="malshej.html" class="button alt">More</a>
 								</li>
 							</ul>
 						</div>
@@ -73,8 +73,8 @@
 			<section id="two" class="wrapper special">
 				<div class="inner">
 					<header class="major narrow">
-						<h2>Aliquam Blandit Mauris</h2>
-						<p>Ipsum dolor tempus commodo turpis adipiscing Tempor placerat sed amet accumsan</p>
+						<h2>Some of the best moments with Trippy</h2>
+						<p>Our experience with some of the most energetic clients</p>
 					</header>
 					<div class="image-grid">
 						<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
@@ -86,9 +86,12 @@
 						<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
 						<a href="#" class="image"><img src="images/pic10.jpg" alt="" /></a>
 					</div>
-					<ul class="actions">
+					<!-- <ul class="actions">
 						<li><a href="#" class="button big alt">Tempus Aliquam</a></li>
-					</ul>
+					</ul> -->
+
+					</ul> 
+
 				</div>
 			</section>
 
@@ -96,12 +99,13 @@
 			<section id="three" class="wrapper style3 special">
 				<div class="inner">
 					<header class="major narrow	">
-						<h2>Magna sed consequat tempus</h2>
-						<p>Ipsum dolor tempus commodo turpis adipiscing Tempor placerat sed amet accumsan</p>
+						<h2>Cant decide where to go this holiday?</h2>
+						<p>You just came at the right place!</br>Our experienced team understands what you need and </br> plans a trip exclusively for you or your squad</br>
+							Choose one of the many trips with us</p>
 					</header>
-					<ul class="actions">
+					<!-- <ul class="actions">
 						<li><a href="#" class="button big alt">Magna feugiat</a></li>
-					</ul>
+					</ul> -->
 				</div>
 			</section>
 
@@ -149,7 +153,7 @@
 						<li><a href="#" class="icon fa-twitter">
 							<span class="label">Twitter</span>
 						</a></li>
-						<li><a href="#" class="icon fa-instagram">
+						<li><a href="https://www.instagram.com/trippytrek/" class="icon fa-instagram">
 							<span class="label">Instagram</span>
 						</a></li>
 						<li><a href="#" class="icon fa-linkedin">
